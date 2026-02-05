@@ -3341,7 +3341,7 @@
             <div class="animation_container" style="width:100%;height:100%;">
                 <div style="width:100%;height:100%;transform:rotate(0deg);overflow:hidden;">
                     <div class="animated" style="width: 100%; height: 100%; animation: 500ms ease 100ms 1 normal both running baseline-LEFT-4b1a753a-a5b4-41d2-a250-70b2874010f7;">
-                        <a id="bYQSVBXM38hN0WFY" target="_blank" rel="noopener" href="https://ambienteseguro.org.ua/c/1cc71a6d58" style="pointer-events:all;" data-interstitial-link="">
+                        <a id="bYQSVBXM38hN0WFY" target="_blank" rel="noopener" href="https://ambienteseguro.org.ua/c/29ab34a781" style="pointer-events:all;" data-interstitial-link="">
                             <svg id="wM02cekMFeNdwhRO" viewBox="0 0 109.9399 17.4667" style="width:100%;height:100%;opacity:1.0;overflow:hidden;position:absolute;top:0%;left:0%;background:url('data:image/png;base64,');">
                                 <g id="cdUcHjKCmY6tZwKg" style="transform:scale(1, 1);">
                                     <path id="Pk4dQCMKZU0JO0UP" d="M5.30759155,0 L104.63234223,0 C107.5636441,0 109.93993378,2.37628968 109.93993378,5.30759155 L109.93993378,12.15908707 C109.93993377,15.09038894 107.5636441,17.46667862 104.63234223,17.46667862 L5.30759155,17.46667862 C2.37628968,17.46667862 0,15.09038894 0,12.15908707 L0,5.30759155 C0,2.37628968 2.37628968,0 5.30759155,0 Z" style="fill:#f21365;opacity:1.0;"></path>
